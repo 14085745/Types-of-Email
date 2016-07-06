@@ -19,7 +19,7 @@ Generally speaking, HTML email can be broken down into three categories:
 
 * __Marketing__, where a large list of people are sent the same or very similar emails from a source to which they’ve intentionally subscribed (like a newsletter, or product announcement). 
 
-* __Notification__, where an email is sent to a person on an individual basis, usually to be notified each time a particular event happens (like reciving a new follower or asking for feedback after a purchase).
+* __Notification__, where an email is sent to a person on an individual basis, usually to be notified each time a particular event happens (like getting a new follower or asking for feedback after a purchase).
 
 * __Transactional__, where an email is sent to a person on an individual basis, usually as a result of an action they’ve taken (like making a purchase, or receiving a shipping update, invoice, etc.).
 
@@ -46,10 +46,10 @@ However, the recipient does not make an explicit request for a message in partic
 
 There can be a periodicity, but the message can also be sent to a segment in particular. Nonetheless, the main point is that messages are sent independently from specific actions from the clients.
 
-With Marketing emails, you don't state: "such clients will receive such message if they perform such action": it would then be a notification email (see below). We would rather state: "such clients will receive such message". The message is neither related to an "event" nor to an action from the recipient.
+With Marketing emails, you don't state: "such clients will receive such message if they perform such action": it would then be a [notification email](https://github.com/CoffeeAndEmails/types-of-email/blob/master/README.md#notification-emails). We would rather state: "such clients will receive such message". The message is neither related to an "event" nor to an action from the recipient.
 
-* Newsletters ![example](#)
-* Announcements ![example](#)
+* Newsletters
+* Announcements
 
 
 
@@ -63,8 +63,8 @@ From a marketer's point of view, it can be relevant to encourage the targets to 
 
 You may also decide to create notifications by yourself. These will then be related to events occurring after a client's action. The purpose here is to mark a significant event in order to capitalize on it.
 
-* Birthday email ![example](#)
-* Shopping Cart Abandonment ![example](#)
+* Birthday email
+* Shopping Cart Abandonment
 * Discounts on recently browsed products
 * Feedback request after a purchase 
 * Getting in touch a few days after registration
@@ -79,7 +79,7 @@ This is an expected message and its content is information that the client wishe
 Strong attention should be paid to this kind of email. These emails must be specifically dealt with: wrongly delivered newsletters might impact leads, but an undelivered transactional email will upset the customer.
 
 * Welcome message / Account opening ![example](#)
-* Shipment tracking and order status ![example](#)
+* Shipment tracking and order status
 * Order shipment confirmation
 * Account termination
 * Payment confirmation
