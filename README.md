@@ -70,7 +70,7 @@ You may also decide to create notifications by yourself. These will then be rela
 
 
 
-## Marketing Emails
+## Transactional Emails
 
 This is an expected message and its content is information that the client wishes to check or confirm, and not "discover". This type of email is not intended to optimize the customer relationship but to define it and mark it out. It is a point of reference in one’s CRM.
 
