@@ -1,5 +1,7 @@
 # The Different Types of Email
 
+<p align="center"><img src="https://mailgun.ghost.io/content/images/2014/Aug/icons.png" width="500"></p>
+
 ### Table of Contents
 
 * [Introduction](https://github.com/CoffeeAndEmails/types-of-email/blob/master/README.md#introduction)
