@@ -19,9 +19,9 @@ Generally speaking, HTML email can be broken down into three categories:
 
 * __Marketing__, where a large list of people are sent the same or very similar emails from a source to which they’ve intentionally subscribed (like a newsletter, or product announcement). 
 
-* __Notification__, where an email is sent to a person on an individual basis, usually to be notified each time a particular event happens (like getting a new follower or asking for feedback after a purchase).
+* __Notification__, where an email is sent to a person on an individual basis, usually to be notified each time a particular event happens (like getting a new follower, or reciving a birthday discount).
 
-* __Transactional__, where an email is sent to a person on an individual basis, usually as a result of an action they’ve taken (like making a purchase, or receiving a shipping update, invoice, etc.).
+* __Transactional__, where an email is sent to a person on an individual basis, usually as a result of an action they’ve taken (like receiving purchase confirmation, password change).
 
 Fully understanding each different email type is very important for your strategy. Transactional, notification and marketing messages don't obey to the same rules. In each of these 3 cases, the recipient's position is actually different. 
 
@@ -66,8 +66,7 @@ You may also decide to create notifications by yourself. These will then be rela
 * Birthday email
 * Shopping Cart Abandonment
 * Discounts on recently browsed products
-* Feedback request after a purchase 
-* Getting in touch a few days after registration
+* Feedback request after a purchase
 * Congratulations after a status change (first purchase, subscription...)
 
 
