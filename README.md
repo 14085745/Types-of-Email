@@ -24,8 +24,7 @@ Generally speaking, HTML email can be broken down into three categories:
 * __Transactional__, where an email is sent to a person on an individual basis, usually as a result of an action they’ve taken (like making a purchase, or receiving a shipping update, invoice, etc.).
 
 Fully understanding each different email type is very important for your strategy. Transactional, notification and marketing messages don't obey to the same rules. In each of these 3 cases, the recipient's position is actually different. 
-
-This table summarizes the situation; please note the different equivalent designations. As you can see, the Unsubscribe Link is not required in every case.
+The table below summarizes the situation; note the different equivalent designations. As you can see, the Unsubscribe Link is not required in every case.
 
 |  | Marketing | Notification | Transactional |
 | ---: | :---: | :---: | :---: |
@@ -34,7 +33,7 @@ This table summarizes the situation; please note the different equivalent design
 | **Unsubscribe link** | Yes         | Yes        | No         |
 
 
-If you are interested in learning more about the benefits of email marketing, check out the [Frequently Asked Questions](https://github.com/CoffeeAndEmails/types-of-email/blob/master/README.md#frequently-asked-questions) and [Further Reading](https://github.com/CoffeeAndEmails/types-of-email/blob/master/README.md#further-reading) sections below.
+If you are interested in learning more about the benefits of email marketing, check out the [FAQ](https://github.com/CoffeeAndEmails/types-of-email/blob/master/README.md#frequently-asked-questions) and [Further Reading](https://github.com/CoffeeAndEmails/types-of-email/blob/master/README.md#further-reading) sections below.
 
 
 
