@@ -23,7 +23,7 @@ Generally speaking, HTML email can be broken down into three categories:
 
 * __Transactional__, where an email is sent to a person on an individual basis, usually as a result of an action they’ve taken (like receiving purchase confirmation, password change).
 
-Fully understanding each different email type is very important for your strategy. Transactional, notification and marketing messages don't obey to the same rules. In each of these 3 cases, the recipient's position is actually different. 
+Fully understanding each different email type is very important for your strategy. Transactional, notification and marketing messages don't obey to the same rules. In each of these 3 cases, the recipient's position is actually different.
 
 The table below summarizes the situation; note the different equivalent designations. As you can see, the Unsubscribe Link is not required in every case.
 
@@ -77,11 +77,11 @@ This is an expected message and its content is information that the client wishe
 
 Strong attention should be paid to this kind of email. These emails must be specifically dealt with: wrongly delivered newsletters might impact leads, but an undelivered transactional email will upset the customer.
 
-* Welcome message / Account opening ![example](#)
+* Welcome message / Account opening ![example](https://github.com/CoffeeAndEmails/types-of-email/blob/master/Examples/confirm-your-email.html), ![example](https://github.com/CoffeeAndEmails/types-of-email/blob/master/Examples/email-confirmed.html)
 * Shipment tracking and order status
 * Order shipment confirmation
 * Account termination
-* Payment confirmation
+* Payment confirmation ![example](https://github.com/CoffeeAndEmails/types-of-email/blob/master/Examples/payment-failed.html)
 * Invoice
 
 
@@ -99,3 +99,4 @@ Anybody who is online has an active email address. So when it comes to connectin
 * [Why email marketing](https://www.campaignmonitor.com/resources/guides/why-email/)
 * [We just don’t speak anymore. But we’re “talking” more than ever.](http://attentiv.com/we-dont-speak/-)
 * [56% of Emails opened on Mobile - April 2016](https://litmus.com/blog/mobile-rises-to-56-market-share-longest-sustained-growth-in-2016)
+* [Reasons Why Email List Beats Social Media](https://medium.com/@dreamgrow/11-reasons-why-email-list-beats-social-media-2c6ac810a9c3#.iwn3wrpqh)
