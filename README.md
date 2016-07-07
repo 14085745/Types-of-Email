@@ -81,7 +81,7 @@ Strong attention should be paid to this kind of email. These emails must be spec
 * Shipment tracking and order status
 * Order shipment confirmation
 * Account termination
-* Payment confirmation ![example](https://coffeeandemails.github.io/Types-of-Email/payment-failed.html)
+* Payment confirmation ![example](http://coffeeandemails.github.io/Types-of-Email/payment-failed.html)
 * Invoice
 
 
