@@ -77,11 +77,11 @@ This is an expected message and its content is information that the client wishe
 
 Strong attention should be paid to this kind of email. These emails must be specifically dealt with: wrongly delivered newsletters might impact leads, but an undelivered transactional email will upset the customer.
 
-* Welcome message / Account opening ![example](https://github.com/CoffeeAndEmails/types-of-email/blob/master/Examples/confirm-your-email.html), ![example](https://github.com/CoffeeAndEmails/types-of-email/blob/master/Examples/email-confirmed.html)
+* Welcome message / Account opening - ![example](https://coffeeandemails.github.io/Types-of-Email/confirm-your-email.html), ![example](https://coffeeandemails.github.io/Types-of-Email/email-confirmed.html)
 * Shipment tracking and order status
 * Order shipment confirmation
 * Account termination
-* Payment confirmation ![example](https://github.com/CoffeeAndEmails/types-of-email/blob/master/Examples/payment-failed.html)
+* Payment confirmation ![example](https://coffeeandemails.github.io/Types-of-Email/payment-failed.html)
 * Invoice
 
 
