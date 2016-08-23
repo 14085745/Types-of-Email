@@ -48,7 +48,7 @@ There can be a periodicity, but the message can also be sent to a segment in par
 
 With Marketing emails, you don't state: "such clients will receive such message if they perform such action": it would then be a [notification email](https://github.com/CoffeeAndEmails/types-of-email/blob/master/README.md#notification-emails). We would rather state: "such clients will receive such message". The message is neither related to an "event" nor to an action from the recipient.
 
-* Newsletters
+* Newsletters [example](https://coffeeandemails.github.io/Types-of-Email/banner.html)
 * Announcements
 
 
@@ -77,11 +77,11 @@ This is an expected message and its content is information that the client wishe
 
 Strong attention should be paid to this kind of email. These emails must be specifically dealt with: wrongly delivered newsletters might impact leads, but an undelivered transactional email will upset the customer.
 
-* Welcome message / Account opening - ![example](https://coffeeandemails.github.io/Types-of-Email/confirm-your-email.html), ![example](https://coffeeandemails.github.io/Types-of-Email/email-confirmed.html)
+* Welcome message / Account opening - [example 1](https://coffeeandemails.github.io/Types-of-Email/confirm-your-email.html), [example 2](https://coffeeandemails.github.io/Types-of-Email/email-confirmed.html)
 * Shipment tracking and order status
 * Order shipment confirmation
 * Account termination
-* Payment confirmation ![example](https://coffeeandemails.github.io/Types-of-Email/payment-failed.html)
+* Payment confirmation [example](https://coffeeandemails.github.io/Types-of-Email/payment-failed.html)
 * Invoice
 
 
@@ -100,4 +100,3 @@ Anybody who is online has an active email address. So when it comes to connectin
 * [We just don’t speak anymore. But we’re “talking” more than ever.](http://attentiv.com/we-dont-speak/-)
 * [56% of Emails opened on Mobile - April 2016](https://litmus.com/blog/mobile-rises-to-56-market-share-longest-sustained-growth-in-2016)
 * [Reasons Why Email List Beats Social Media](https://medium.com/@dreamgrow/11-reasons-why-email-list-beats-social-media-2c6ac810a9c3#.iwn3wrpqh)
-
