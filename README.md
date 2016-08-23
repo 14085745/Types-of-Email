@@ -1,6 +1,6 @@
 # The Different Types of Email
 
-<p align="center"><img src="https://raw.githubusercontent.com/CoffeeAndEmails/Types-of-Email/gh-pages/img/banner-emails.png" width="500"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CoffeeAndEmails/Types-of-Email/gh-pages/img/banner-emails.png" width="600"></p>
 
 ### Table of Contents
 
